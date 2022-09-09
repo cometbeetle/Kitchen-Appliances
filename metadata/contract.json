@@ -1,7 +1,7 @@
 {
     "name": "Other Worlds",
     "description": "A collection of individual AI-generated renders of other worldly landscapes.",
-    "image": "https://raw.githubusercontent.com/cometbeetle/Kitchen-Appliances/main/image/0.png",
+    "image": "https://raw.githubusercontent.com/cometbeetle/Other-Worlds/main/image/0.png",
     "seller_fee_basis_points": 100,
     "fee_recipient": "0x1c5F6C563551bA70DcfB69Dd132c63620F69ADe4"
   }
